@@ -1,4 +1,1 @@
-0x00. MySQL advanced
-Back-end
-SQL
-MySQL
+Backend storage project
